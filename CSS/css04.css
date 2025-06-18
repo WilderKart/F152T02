@@ -1,0 +1,34 @@
+.uno {
+    width: 50%;
+    height: 30%;
+    border: 4px solid black;
+}
+
+#dos {
+    border: 4px dashed #ff0000;
+}
+
+#tres {
+    border: 4px dotted blue;
+}
+
+#cuatro {
+    border: 4px double green;
+
+}
+
+#cinco {
+    border: 5px groove #555;
+}
+
+#seis {
+    border: 5px ridge #777;
+}
+
+#siete {
+border: 5px inset gray;
+}
+
+#ocho {
+border: 5px outset silver;
+}

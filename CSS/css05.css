@@ -1,0 +1,27 @@
+p {
+    width: 50%;
+    height: auto;
+    padding:  10px 5px 10px 5px;
+}
+
+#uno {
+background-color: aquamarine;
+margin: auto;
+border: 2px solid blue;   
+}
+
+#dos {
+background-color: blueviolet;
+margin: 10px ;
+margin-left: auto;
+
+border: 5px groove #555;
+}
+
+#tres {
+border: 2px dashed rgb(0, 4, 255);
+background-color: rgba(250, 61, 4, 0.904);
+margin: 10px;
+margin-right: auto;
+
+}

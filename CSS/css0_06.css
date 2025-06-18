@@ -1,0 +1,16 @@
+.imagen {
+    display: flex;
+    justify-content: space-around;
+    margin: 5%;
+}
+.m1 {
+    width: 20%;
+    height: ;
+    object-fit: cover;
+    border: 2px dashed #ffffff; ;
+
+}
+h1{
+    font-family: 'poppins', sans-serif;
+    text-align: center;
+}
