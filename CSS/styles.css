@@ -60,13 +60,15 @@
 }
 
 footer {
-  background: rgba(0, 0, 0, 0.85); /* negro con transparencia */
-  color: #fff;                     /* texto blanco */
-  text-align: center;              /* centra el texto */
-  padding: 20px 0;                 /* espacio arriba y abajo */
-  font-size: 16px;                 /* tamaño de fuente */
-  margin-top: 70px;                /* espacio arriba del footer */
-  letter-spacing: 0.5px;           /* 
+  background: rgba(0, 0, 0, 0.85); 
+  color: #fff;                     
+  text-align: center;              
+  padding: 20px 0 20px 0;                
+  font-size: 16px;                
+  margin-top: 70px;                
+  letter-spacing: 0.5px; 
+  font-family: 'poppins', sans-serif;  
+  mR      
 }
 .footer a {
   color: #a777e3;
@@ -80,4 +82,8 @@ h2 {
     font-family: 'poppins', sans-serif;
     text-align: center;
     padding: 20     px;
+}
+
+body {
+  
 }
