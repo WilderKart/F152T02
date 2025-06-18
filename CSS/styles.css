@@ -68,9 +68,9 @@ footer {
   margin-top: 70px;                /* espacio arriba del footer */
   letter-spacing: 0.5px;           /* 
 }
-footer a {
-  color: #a777e3;                  /* color de enlaces */
-  text-decoration: underline;      /* subrayado */
+.footer a {
+  color: #a777e3;
+  text decoration:text-underline-offset: ;
 }
 
 p {
